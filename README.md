@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html 
-<head>
-   <title>Github</title>
-</head>
 <body style="background-color: black;
     color: white;">
     <h1 align="center">Hi 👋, I'm Muhammad Ishfaque</h1>
