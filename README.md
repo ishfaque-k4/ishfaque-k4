@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend devleoper
 ------------------
 
-I'm M. Ishfaque, a passionate Frontend Developer with 1 years of experience in building responsive and user-friendly web applications. 🔧 Technologies & Tools Languages: JavaScript, HTML, CSS Frameworks: React, node.js Tools: Git, VS Code
+I'm M. Ishfaque, a passionate Frontend Developer with 1 years of experience in building responsive and user-friendly web applications.
+🔧 Technologies & Tools
+Languages: JavaScript, HTML, CSS 
+Frameworks: React, node.js 
+Tools: Git, VS Code
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ahmedishfaque689@gmail.com](mailto:ahmedishfaque689@gmail.com)
