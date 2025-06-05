@@ -1,4 +1,4 @@
-![logo](https://github.com/ishfaque-k4/ishfaque-k4/blob/main/Picsart_25-06-05_17-46-46-753~2.jpg)
+![logo](https://github.com/ishfaque-k4/ishfaque-k4/blob/main/pic3.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ishfaque</h1>
 <h3 align="center">Electrical Engineer | PCB & CAD Designer | Electronics Enthusiast</h3>
