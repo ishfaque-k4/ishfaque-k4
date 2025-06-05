@@ -14,7 +14,7 @@ I have over **1 year of hands-on experience** in **PCB design**, **circuit simul
 
 - 📍 Based in Pakistan  
 - 📧 Email: [ahmedishfaque689@gmail.com](mailto:ahmedishfaque689@gmail.com)  
-- 🎓 Student at [Sukkur IBA University](https://www.iba-suk.edu.pk/)  
+- 🎓 Studied at [Sukkur IBA University](https://www.iba-suk.edu.pk/)  
 - 🤝 Open to collaboration on freelance and technical projects  
 - ⚡ Currently learning more about embedded systems and digital design
 
